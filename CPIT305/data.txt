@@ -1,0 +1,33 @@
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value
+2021,Level 1,99999,All industries,Dollars (millions),H01,Total income,Financial performance,757504
+2021,Level 3,AA12,Sheep; Beef Cattle and Grain Farming,Percentage,H41,Liabilities structure,Financial ratios,56
+2021,Level 4,AA121,Sheep; Beef Cattle and Grain Farming,Dollars (millions),H01,Total income,Financial performance,11690
+2021,Level 1,BB,Mining,Percentage,H36,Current ratio,Financial ratios,105
+2021,Level 3,CC51,Petroleum and Coal Product Manufacturing,Dollars (millions),H20,Non-operating expenses,Financial performance,C
+2021,Level 4,CC811,Transport Equipment Manufacturing,Percentage,H37,Quick ratio,Financial ratios,110
+2021,Level 4,CC912,Other Manufacturing,Dollars (millions),H22,Closing stocks,Financial performance,147
+2021,Level 4,GH212,Food and Beverage Services,Dollars (millions),H26,Fixed tangible assets,Financial position,3333
+2021,Level 4,GH212,Food and Beverage Services,Dollars (millions),H27,Additions to fixed assets,Financial position,674
+2021,Level 4,GH212,Food and Beverage Services,Dollars (millions),H28,Disposals of fixed assets,Financial position,434
+2021,Level 4,GH212,Food and Beverage Services,Dollars (millions),H29,Other assets,Financial position,2761
+2021,Level 4,GH212,Food and Beverage Services,Dollars (millions),H30,Total equity and liabilities,Financial position,8393
+2021,Level 4,GH212,Food and Beverage Services,Dollars (millions),H31,Shareholders funds or owners equity,Financial position,2158
+2021,Level 4,GH212,Food and Beverage Services,Dollars (millions),H32,Current liabilities,Financial position,3338
+2021,Level 4,GH212,Food and Beverage Services,Dollars (millions),H33,Other liabilities,Financial position,2897
+2021,Level 4,GH212,Food and Beverage Services,Dollars,H34,Total income per employee count,Financial ratios,92600
+2021,Level 4,GH212,Food and Beverage Services,Dollars,H35,Surplus per employee count,Financial ratios,5200
+2021,Level 4,GH212,Food and Beverage Services,Percentage,H36,Current ratio,Financial ratios,69
+2021,Level 4,GH212,Food and Beverage Services,Percentage,H37,Quick ratio,Financial ratios,61
+2021,Level 4,GH212,Food and Beverage Services,Percentage,H38,Margin on sales of goods for resale,Financial ratios,52
+2021,Level 4,GH212,Food and Beverage Services,Percentage,H39,Return on equity,Financial ratios,32
+2021,Level 4,GH212,Food and Beverage Services,Percentage,H40,Return on total assets,Financial ratios,8
+2021,Level 4,GH212,Food and Beverage Services,Percentage,H41,Liabilities structure,Financial ratios,26
+2021,Level 1,II,Transport; Postal and Warehousing,Dollars (millions),H01,Total income,Financial performance,25392
+2021,Level 1,II,Transport; Postal and Warehousing,Dollars (millions),H07,Non-operating income,Financial performance,1199
+2021,Level 1,II,Transport; Postal and Warehousing,Dollars (millions),H12,Salaries and wages paid,Financial performance,6489
+2021,Level 1,II,Transport; Postal and Warehousing,Dollars (millions),H13,Redundancy and severance,Financial performance,20
+2021,Level 1,II,Transport; Postal and Warehousing,Dollars (millions),H19,Purchases and other operating expenses,Financial performance,11836
+2021,Level 1,II,Transport; Postal and Warehousing,Dollars (millions),H20,Non-operating expenses,Financial performance,658
+2021,Level 1,II,Transport; Postal and Warehousing,Dollars (millions),H21,Opening stocks,Financial performance,256
+2013,Level 4,QQ113,Residential Care Services and Social Assistance,Dollars (millions),H33,Other liabilities,Financial position,2228
+2013,Level 3,ZZ11,Food product manufacturing,Percentage,H41,Liabilities structure,Financial ratios,46
